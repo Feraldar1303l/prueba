@@ -1,3 +1,0 @@
-git remote add origin https://github.com/Feraldar1303l/prueba.git
-git branch -M main
-git push -u origin main
